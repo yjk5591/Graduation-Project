@@ -18,3 +18,4 @@ This is consist of API methods, Database manage methods, web crawling methods.
 
 We used MySQL database with xlsx datas.
 
+if you want more info, please visit our Wiki page.
